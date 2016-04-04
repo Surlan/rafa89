@@ -1,1 +1,2 @@
-print ("GoodBye, World!";)
+print ("GoodBye, World!");
+print ("Don't worry.Be happy");
