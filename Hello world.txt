@@ -1,2 +1,3 @@
 print ("Hello world");
 print ("Hello everobody!");
+print ("Have a nice day");
